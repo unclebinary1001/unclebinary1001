@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=unclebinary1001)
 
 I am Mahlangu, affectionately called Uncle B (short for binary) by my close friends. I am working towards a career in software engineering. My interests are edtech, and democratization of technology.
 
