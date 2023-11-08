@@ -10,7 +10,7 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
 - 😄 Pronouns: He/him
 
 
-[![Twitter: mastermalhlangu](https://img.shields.io/twitter/follow/mastermalhlangu?label=)](https://twitter.com/mastermalhlangu)
+[![Twitter: mastermalhlangu](https://img.shields.io/twitter/follow/mastermalhlangu?label=)](https://twitter.com/mahlangu_nzunda)
 [![Linkedin: mahlangunzunda](https://img.shields.io/badge/-blue?logo=Linkedin&link=https://www.linkedin.com/in/mahlangunzunda/)](https://www.linkedin.com/in/mahlangunzunda/)
 
 
