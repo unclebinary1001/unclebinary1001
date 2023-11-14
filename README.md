@@ -4,7 +4,7 @@
 I am Mahlangu, affectionately called Uncle B (short for binary) by my close friends. I am working towards a career in software engineering. My interests are edtech, and democratization of technology.
 
 - 🔭 I’m currently working on technical interview prep for this internship application season
-- 🌱 I’m currently learning Full Stack Dev with HTML, CSS, JS, NodeJS, React
+- 🌱 I’m currently learning API development with Node JS
 - 👯 I’m looking to collaborate on edtech projects and hackathon 
 - 📫 How to reach me: nzundamahlangu@gmail.com
 - 😄 Pronouns: He/him
