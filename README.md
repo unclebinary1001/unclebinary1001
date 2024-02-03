@@ -22,11 +22,11 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azaya89&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclebinary1001&layout=compact&theme=vision-friendly-dark)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unclebinary1001&include_all_commits=true&count_private=true&show_icons=true&theme=vue-darky&hide_border=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=unclebinary1001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unclebinary1001&theme=vue-darky&include_all_commits=true&count_private=true&show_icons=true&theme=vue-darky&hide_border=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=unclebinary1001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=unclebinary1001&theme=vue-darky&layout=compact&hide_border=true" />
 </a>
 
