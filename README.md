@@ -19,7 +19,8 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
 ### 🔥 My stats :
 [![wakatime](https://wakatime.com/badge/user/018bcec0-034b-4087-aa28-64a97a30a65f.svg)](https://wakatime.com/@018bcec0-034b-4087-aa28-64a97a30a65f)
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azaya89&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=unclebinary1001&theme=highcontrast)](https://git.io/streak-stats)
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclebinary1001&layout=compact&theme=vision-friendly-dark)
 
   <a href="https://github-readme-stats.vercel.app/api?username=unclebinary1001">
