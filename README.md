@@ -29,7 +29,7 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unclebinary1001&layout=compact&theme=vision-friendly-dark)
 
   <a href="https://github-readme-stats.vercel.app/api?username=unclebinary1001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unclebinary1001&theme=vue-darky&include_all_commits=true&count_private=true&show_icons=true&theme=vue-darky&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unclebinary1001&theme=vue-darky" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=unclebinary1001">
