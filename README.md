@@ -17,10 +17,8 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
 
 
 [![Twitter: @mahlangu_nzunda](https://img.shields.io/twitter/follow/mahlangu_nzunda?label=)](https://twitter.com/mahlangu_nzunda)
-[![Linkedin: mahlangunzunda](https://img.shields.io/badge/-blue?logo=Linkedin&link=https://www.linkedin.com/in/mahlangunzunda/)](https://www.linkedin.com/in/mahlangunzunda/)
-
-
-
+[![Linkedin: mahlangunzunda](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mahlangunzunda/)
+[![Strava: mahlangunzunda](https://img.shields.io/badge/-white?logo=strava&link=https://strava.com/athletes/70086815)](https://strava.com/athletes/70086815)
 
 ### 🔥 My stats :
 [![wakatime](https://wakatime.com/badge/user/018bcec0-034b-4087-aa28-64a97a30a65f.svg)](https://wakatime.com/@018bcec0-034b-4087-aa28-64a97a30a65f)
