@@ -36,7 +36,11 @@ I am Mahlangu, affectionately called Uncle B (short for binary) by my close frie
 
 ### 🤔 Musings:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
-<!--
+
+### Exploring OSS with Meshery
+ <a href="https://cloud.layer5.io/user/90eaa6e2-aae7-4224-a036-b020151d465d?tab=badges&badge=first-design">
+    <img width="200px" height="310px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design"/>
+  </a><!--
 **unclebinary1001/unclebinary1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
